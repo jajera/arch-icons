@@ -1,0 +1,2 @@
+linuxcontainers.org containers.svg — community LXC/LXD umbrella mark, not a dedicated LXD product icon.
+Canonical does not publish a clear public LXD-only SVG mark on ubuntu.com/lxd.

@@ -1,0 +1,973 @@
+[
+  {
+    "path": "icons/clickhouse/logo_without_text.svg",
+    "tags": [
+      "clickhouse",
+      "data"
+    ],
+    "category": "clickhouse",
+    "family": "data",
+    "color": "#334155",
+    "description": "ClickHouse architecture icon (ClickHouse, Data).",
+    "fullname": "ClickHouse",
+    "name": "logo_without_text"
+  },
+  {
+    "path": "icons/kafka/Apache_Kafka_logo.svg",
+    "tags": [
+      "data",
+      "kafka"
+    ],
+    "category": "kafka",
+    "family": "data",
+    "color": "#334155",
+    "description": "Kafka architecture icon (Kafka, Data).",
+    "fullname": "Kafka",
+    "name": "Apache_Kafka_logo"
+  },
+  {
+    "path": "icons/mongodb/mongodb-leaf.svg",
+    "tags": [
+      "data",
+      "mongodb"
+    ],
+    "category": "mongodb",
+    "family": "data",
+    "color": "#334155",
+    "description": "MongoDB Leaf architecture icon (MongoDB, Data).",
+    "fullname": "MongoDB Leaf",
+    "name": "mongodb-leaf"
+  },
+  {
+    "path": "icons/mysql/Mysql.svg",
+    "tags": [
+      "data",
+      "mysql"
+    ],
+    "category": "mysql",
+    "family": "data",
+    "color": "#334155",
+    "description": "MySQL architecture icon (MySQL, Data).",
+    "fullname": "MySQL",
+    "name": "Mysql"
+  },
+  {
+    "path": "icons/postgresql/postgresql-logo.svg",
+    "tags": [
+      "data",
+      "postgresql"
+    ],
+    "category": "postgresql",
+    "family": "data",
+    "color": "#334155",
+    "description": "PostgreSQL architecture icon (PostgreSQL, Data).",
+    "fullname": "PostgreSQL",
+    "name": "postgresql-logo"
+  },
+  {
+    "path": "icons/rabbitmq/rabbitmq-logo.svg",
+    "tags": [
+      "data",
+      "rabbitmq"
+    ],
+    "category": "rabbitmq",
+    "family": "data",
+    "color": "#334155",
+    "description": "RabbitMQ architecture icon (RabbitMQ, Data).",
+    "fullname": "RabbitMQ",
+    "name": "rabbitmq-logo"
+  },
+  {
+    "path": "icons/redis/redis-logo.svg",
+    "tags": [
+      "data",
+      "redis"
+    ],
+    "category": "redis",
+    "family": "data",
+    "color": "#334155",
+    "description": "Redis architecture icon (Redis, Data).",
+    "fullname": "Redis",
+    "name": "redis-logo"
+  },
+  {
+    "path": "icons/jfrog/jfrog-logo-2022.svg",
+    "tags": [
+      "dev-platforms",
+      "jfrog"
+    ],
+    "category": "jfrog",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "JFrog architecture icon (JFrog, Dev Platforms).",
+    "fullname": "JFrog",
+    "name": "jfrog-logo-2022"
+  },
+  {
+    "path": "icons/sonarqube/sonar-vortex-icon.svg",
+    "tags": [
+      "dev-platforms",
+      "sonarqube"
+    ],
+    "category": "sonarqube",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "SonarQube architecture icon (SonarQube, Dev Platforms).",
+    "fullname": "SonarQube",
+    "name": "sonar-vortex-icon"
+  },
+  {
+    "path": "icons/boundary/boundary-logomark-black.svg",
+    "tags": [
+      "black",
+      "boundary",
+      "hashicorp"
+    ],
+    "category": "boundary",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Boundary (black) architecture icon (Boundary, HashiCorp).",
+    "fullname": "Boundary (black)",
+    "name": "boundary-logomark-black"
+  },
+  {
+    "path": "icons/boundary/boundary-logomark-color.svg",
+    "tags": [
+      "boundary",
+      "color",
+      "hashicorp"
+    ],
+    "category": "boundary",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Boundary (color) architecture icon (Boundary, HashiCorp).",
+    "fullname": "Boundary (color)",
+    "name": "boundary-logomark-color"
+  },
+  {
+    "path": "icons/boundary/boundary-logomark-white.svg",
+    "tags": [
+      "boundary",
+      "hashicorp",
+      "white"
+    ],
+    "category": "boundary",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Boundary (white) architecture icon (Boundary, HashiCorp).",
+    "fullname": "Boundary (white)",
+    "name": "boundary-logomark-white"
+  },
+  {
+    "path": "icons/consul/consul-logomark-black.svg",
+    "tags": [
+      "black",
+      "consul",
+      "hashicorp"
+    ],
+    "category": "consul",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Consul (black) architecture icon (Consul, HashiCorp).",
+    "fullname": "Consul (black)",
+    "name": "consul-logomark-black"
+  },
+  {
+    "path": "icons/consul/consul-logomark-color.svg",
+    "tags": [
+      "color",
+      "consul",
+      "hashicorp"
+    ],
+    "category": "consul",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Consul (color) architecture icon (Consul, HashiCorp).",
+    "fullname": "Consul (color)",
+    "name": "consul-logomark-color"
+  },
+  {
+    "path": "icons/consul/consul-logomark-white.svg",
+    "tags": [
+      "consul",
+      "hashicorp",
+      "white"
+    ],
+    "category": "consul",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Consul (white) architecture icon (Consul, HashiCorp).",
+    "fullname": "Consul (white)",
+    "name": "consul-logomark-white"
+  },
+  {
+    "path": "icons/hashicorp/black.svg",
+    "tags": [
+      "black",
+      "hashicorp"
+    ],
+    "category": "hashicorp",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "HashiCorp (black) architecture icon (HashiCorp, HashiCorp).",
+    "fullname": "HashiCorp (black)",
+    "name": "black"
+  },
+  {
+    "path": "icons/hashicorp/white.svg",
+    "tags": [
+      "hashicorp",
+      "white"
+    ],
+    "category": "hashicorp",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "HashiCorp (white) architecture icon (HashiCorp, HashiCorp).",
+    "fullname": "HashiCorp (white)",
+    "name": "white"
+  },
+  {
+    "path": "icons/nomad/nomad-logomark-black.svg",
+    "tags": [
+      "black",
+      "hashicorp",
+      "nomad"
+    ],
+    "category": "nomad",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Nomad (black) architecture icon (Nomad, HashiCorp).",
+    "fullname": "Nomad (black)",
+    "name": "nomad-logomark-black"
+  },
+  {
+    "path": "icons/nomad/nomad-logomark-color.svg",
+    "tags": [
+      "color",
+      "hashicorp",
+      "nomad"
+    ],
+    "category": "nomad",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Nomad (color) architecture icon (Nomad, HashiCorp).",
+    "fullname": "Nomad (color)",
+    "name": "nomad-logomark-color"
+  },
+  {
+    "path": "icons/nomad/nomad-logomark-white.svg",
+    "tags": [
+      "hashicorp",
+      "nomad",
+      "white"
+    ],
+    "category": "nomad",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Nomad (white) architecture icon (Nomad, HashiCorp).",
+    "fullname": "Nomad (white)",
+    "name": "nomad-logomark-white"
+  },
+  {
+    "path": "icons/packer/packer-logomark-black.svg",
+    "tags": [
+      "black",
+      "hashicorp",
+      "packer"
+    ],
+    "category": "packer",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Packer (black) architecture icon (Packer, HashiCorp).",
+    "fullname": "Packer (black)",
+    "name": "packer-logomark-black"
+  },
+  {
+    "path": "icons/packer/packer-logomark-color.svg",
+    "tags": [
+      "color",
+      "hashicorp",
+      "packer"
+    ],
+    "category": "packer",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Packer (color) architecture icon (Packer, HashiCorp).",
+    "fullname": "Packer (color)",
+    "name": "packer-logomark-color"
+  },
+  {
+    "path": "icons/packer/packer-logomark-white.svg",
+    "tags": [
+      "hashicorp",
+      "packer",
+      "white"
+    ],
+    "category": "packer",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Packer (white) architecture icon (Packer, HashiCorp).",
+    "fullname": "Packer (white)",
+    "name": "packer-logomark-white"
+  },
+  {
+    "path": "icons/terraform/terraform-logomark-black.svg",
+    "tags": [
+      "black",
+      "hashicorp",
+      "terraform"
+    ],
+    "category": "terraform",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Terraform (black) architecture icon (Terraform, HashiCorp).",
+    "fullname": "Terraform (black)",
+    "name": "terraform-logomark-black"
+  },
+  {
+    "path": "icons/terraform/terraform-logomark-color.svg",
+    "tags": [
+      "color",
+      "hashicorp",
+      "terraform"
+    ],
+    "category": "terraform",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Terraform (color) architecture icon (Terraform, HashiCorp).",
+    "fullname": "Terraform (color)",
+    "name": "terraform-logomark-color"
+  },
+  {
+    "path": "icons/terraform/terraform-logomark-white.svg",
+    "tags": [
+      "hashicorp",
+      "terraform",
+      "white"
+    ],
+    "category": "terraform",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Terraform (white) architecture icon (Terraform, HashiCorp).",
+    "fullname": "Terraform (white)",
+    "name": "terraform-logomark-white"
+  },
+  {
+    "path": "icons/vault/vault-logomark-black.svg",
+    "tags": [
+      "black",
+      "hashicorp",
+      "vault"
+    ],
+    "category": "vault",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Vault (black) architecture icon (Vault, HashiCorp).",
+    "fullname": "Vault (black)",
+    "name": "vault-logomark-black"
+  },
+  {
+    "path": "icons/vault/vault-logomark-color.svg",
+    "tags": [
+      "color",
+      "hashicorp",
+      "vault"
+    ],
+    "category": "vault",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Vault (color) architecture icon (Vault, HashiCorp).",
+    "fullname": "Vault (color)",
+    "name": "vault-logomark-color"
+  },
+  {
+    "path": "icons/vault/vault-logomark-white.svg",
+    "tags": [
+      "hashicorp",
+      "vault",
+      "white"
+    ],
+    "category": "vault",
+    "family": "hashicorp",
+    "color": "#334155",
+    "description": "Vault (white) architecture icon (Vault, HashiCorp).",
+    "fullname": "Vault (white)",
+    "name": "vault-logomark-white"
+  },
+  {
+    "path": "icons/pulumi/pulumi_mark_on_light.svg",
+    "tags": [
+      "iac",
+      "pulumi"
+    ],
+    "category": "pulumi",
+    "family": "iac",
+    "color": "#334155",
+    "description": "Pulumi architecture icon (Pulumi, IaC).",
+    "fullname": "Pulumi",
+    "name": "pulumi_mark_on_light"
+  },
+  {
+    "path": "icons/docker/docker-mark-black.svg",
+    "tags": [
+      "black",
+      "docker",
+      "linux-containers"
+    ],
+    "category": "docker",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Docker (black) architecture icon (Docker, Containers).",
+    "fullname": "Docker (black)",
+    "name": "docker-mark-black"
+  },
+  {
+    "path": "icons/docker/docker-mark-white.svg",
+    "tags": [
+      "docker",
+      "linux-containers",
+      "white"
+    ],
+    "category": "docker",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Docker (white) architecture icon (Docker, Containers).",
+    "fullname": "Docker (white)",
+    "name": "docker-mark-white"
+  },
+  {
+    "path": "icons/docker/docker-mark-deep-blue.svg",
+    "tags": [
+      "docker",
+      "linux-containers"
+    ],
+    "category": "docker",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Docker Deep Blue architecture icon (Docker, Containers).",
+    "fullname": "Docker Deep Blue",
+    "name": "docker-mark-deep-blue"
+  },
+  {
+    "path": "icons/docker/docker-mark-ocean-blue.svg",
+    "tags": [
+      "color",
+      "docker",
+      "linux-containers"
+    ],
+    "category": "docker",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Docker Ocean Blue (color) architecture icon (Docker, Containers).",
+    "fullname": "Docker Ocean Blue (color)",
+    "name": "docker-mark-ocean-blue"
+  },
+  {
+    "path": "icons/podman/podman-icon-black.svg",
+    "tags": [
+      "black",
+      "linux-containers",
+      "podman"
+    ],
+    "category": "podman",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Podman (black) architecture icon (Podman, Containers).",
+    "fullname": "Podman (black)",
+    "name": "podman-icon-black"
+  },
+  {
+    "path": "icons/podman/podman-icon-color.svg",
+    "tags": [
+      "color",
+      "linux-containers",
+      "podman"
+    ],
+    "category": "podman",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Podman (color) architecture icon (Podman, Containers).",
+    "fullname": "Podman (color)",
+    "name": "podman-icon-color"
+  },
+  {
+    "path": "icons/podman/podman-icon-white.svg",
+    "tags": [
+      "linux-containers",
+      "podman",
+      "white"
+    ],
+    "category": "podman",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Podman (white) architecture icon (Podman, Containers).",
+    "fullname": "Podman (white)",
+    "name": "podman-icon-white"
+  },
+  {
+    "path": "icons/kong/Kong-Logomark-transparent.svg",
+    "tags": [
+      "kong",
+      "networking"
+    ],
+    "category": "kong",
+    "family": "networking",
+    "color": "#334155",
+    "description": "Kong architecture icon (Kong, Networking).",
+    "fullname": "Kong",
+    "name": "Kong-Logomark-transparent"
+  },
+  {
+    "path": "icons/kong/Kong-Logomark.svg",
+    "tags": [
+      "kong",
+      "networking"
+    ],
+    "category": "kong",
+    "family": "networking",
+    "color": "#334155",
+    "description": "Kong architecture icon (Kong, Networking).",
+    "fullname": "Kong",
+    "name": "Kong-Logomark"
+  },
+  {
+    "path": "icons/nginx/Nginx_logo_hexagon.svg",
+    "tags": [
+      "networking",
+      "nginx"
+    ],
+    "category": "nginx",
+    "family": "networking",
+    "color": "#334155",
+    "description": "NGINX architecture icon (NGINX, Networking).",
+    "fullname": "NGINX",
+    "name": "Nginx_logo_hexagon"
+  },
+  {
+    "path": "icons/traefik/traefik-icon-color.svg",
+    "tags": [
+      "color",
+      "networking",
+      "traefik"
+    ],
+    "category": "traefik",
+    "family": "networking",
+    "color": "#334155",
+    "description": "Traefik (color) architecture icon (Traefik, Networking).",
+    "fullname": "Traefik (color)",
+    "name": "traefik-icon-color"
+  },
+  {
+    "path": "icons/datadog/dd_icon_rgb.svg",
+    "tags": [
+      "datadog",
+      "observability"
+    ],
+    "category": "datadog",
+    "family": "observability",
+    "color": "#334155",
+    "description": "Datadog architecture icon (Datadog, Observability).",
+    "fullname": "Datadog",
+    "name": "dd_icon_rgb"
+  },
+  {
+    "path": "icons/datadog/dd_icon_white.svg",
+    "tags": [
+      "datadog",
+      "observability",
+      "white"
+    ],
+    "category": "datadog",
+    "family": "observability",
+    "color": "#334155",
+    "description": "Datadog (white) architecture icon (Datadog, Observability).",
+    "fullname": "Datadog (white)",
+    "name": "dd_icon_white"
+  },
+  {
+    "path": "icons/grafana/grafana_icon.svg",
+    "tags": [
+      "grafana",
+      "observability"
+    ],
+    "category": "grafana",
+    "family": "observability",
+    "color": "#334155",
+    "description": "Grafana architecture icon (Grafana, Observability).",
+    "fullname": "Grafana",
+    "name": "grafana_icon"
+  },
+  {
+    "path": "icons/sentry/logo-sentry.svg",
+    "tags": [
+      "observability",
+      "sentry"
+    ],
+    "category": "sentry",
+    "family": "observability",
+    "color": "#334155",
+    "description": "Sentry architecture icon (Sentry, Observability).",
+    "fullname": "Sentry",
+    "name": "logo-sentry"
+  },
+  {
+    "path": "icons/debian/openlogo-nd.svg",
+    "tags": [
+      "debian",
+      "os"
+    ],
+    "category": "debian",
+    "family": "os",
+    "color": "#334155",
+    "description": "Debian Open Nd architecture icon (Debian, Operating Systems).",
+    "fullname": "Debian Open Nd",
+    "name": "openlogo-nd"
+  },
+  {
+    "path": "icons/fedora/Fedora_icon_2021.svg",
+    "tags": [
+      "fedora",
+      "os"
+    ],
+    "category": "fedora",
+    "family": "os",
+    "color": "#334155",
+    "description": "Fedora architecture icon (Fedora, Operating Systems).",
+    "fullname": "Fedora",
+    "name": "Fedora_icon_2021"
+  },
+  {
+    "path": "icons/linux/tux.svg",
+    "tags": [
+      "linux",
+      "os"
+    ],
+    "category": "linux",
+    "family": "os",
+    "color": "#334155",
+    "description": "Linux architecture icon (Linux, Operating Systems).",
+    "fullname": "Linux",
+    "name": "tux"
+  },
+  {
+    "path": "icons/rocky/icon-black.svg",
+    "tags": [
+      "black",
+      "os",
+      "rocky"
+    ],
+    "category": "rocky",
+    "family": "os",
+    "color": "#334155",
+    "description": "Rocky Linux (black) architecture icon (Rocky Linux, Operating Systems).",
+    "fullname": "Rocky Linux (black)",
+    "name": "icon-black"
+  },
+  {
+    "path": "icons/rocky/icon-white.svg",
+    "tags": [
+      "os",
+      "rocky",
+      "white"
+    ],
+    "category": "rocky",
+    "family": "os",
+    "color": "#334155",
+    "description": "Rocky Linux (white) architecture icon (Rocky Linux, Operating Systems).",
+    "fullname": "Rocky Linux (white)",
+    "name": "icon-white"
+  },
+  {
+    "path": "icons/rocky/icon-primary.svg",
+    "tags": [
+      "os",
+      "rocky"
+    ],
+    "category": "rocky",
+    "family": "os",
+    "color": "#334155",
+    "description": "Rocky Linux Primary architecture icon (Rocky Linux, Operating Systems).",
+    "fullname": "Rocky Linux Primary",
+    "name": "icon-primary"
+  },
+  {
+    "path": "icons/ubuntu/Logo-ubuntu_cof-orange-hex.svg",
+    "tags": [
+      "os",
+      "ubuntu"
+    ],
+    "category": "ubuntu",
+    "family": "os",
+    "color": "#334155",
+    "description": "Ubuntu Ubuntu architecture icon (Ubuntu, Operating Systems).",
+    "fullname": "Ubuntu Ubuntu",
+    "name": "Logo-ubuntu_cof-orange-hex"
+  },
+  {
+    "path": "icons/keycloak/keycloak-icon-black.svg",
+    "tags": [
+      "black",
+      "keycloak",
+      "security"
+    ],
+    "category": "keycloak",
+    "family": "security",
+    "color": "#334155",
+    "description": "Keycloak (black) architecture icon (Keycloak, Security).",
+    "fullname": "Keycloak (black)",
+    "name": "keycloak-icon-black"
+  },
+  {
+    "path": "icons/keycloak/keycloak-icon-color.svg",
+    "tags": [
+      "color",
+      "keycloak",
+      "security"
+    ],
+    "category": "keycloak",
+    "family": "security",
+    "color": "#334155",
+    "description": "Keycloak (color) architecture icon (Keycloak, Security).",
+    "fullname": "Keycloak (color)",
+    "name": "keycloak-icon-color"
+  },
+  {
+    "path": "icons/keycloak/keycloak-icon-white.svg",
+    "tags": [
+      "keycloak",
+      "security",
+      "white"
+    ],
+    "category": "keycloak",
+    "family": "security",
+    "color": "#334155",
+    "description": "Keycloak (white) architecture icon (Keycloak, Security).",
+    "fullname": "Keycloak (white)",
+    "name": "keycloak-icon-white"
+  },
+  {
+    "path": "icons/snyk/snyk-dog.svg",
+    "tags": [
+      "security",
+      "snyk"
+    ],
+    "category": "snyk",
+    "family": "security",
+    "color": "#334155",
+    "description": "Snyk architecture icon (Snyk, Security).",
+    "fullname": "Snyk",
+    "name": "snyk-dog"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-Black.svg",
+    "tags": [
+      "ansible",
+      "black",
+      "vcs-ci"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community (black) architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community (black)",
+    "name": "Ansible-Community-Mark-Black"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-White.svg",
+    "tags": [
+      "ansible",
+      "vcs-ci",
+      "white"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community (white) architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community (white)",
+    "name": "Ansible-Community-Mark-White"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-BlackOutline.svg",
+    "tags": [
+      "ansible",
+      "black",
+      "vcs-ci"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community Blackoutline (black) architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community Blackoutline (black)",
+    "name": "Ansible-Community-Mark-BlackOutline"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-Grey.svg",
+    "tags": [
+      "ansible",
+      "vcs-ci"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community Grey architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community Grey",
+    "name": "Ansible-Community-Mark-Grey"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-Mango.svg",
+    "tags": [
+      "ansible",
+      "vcs-ci"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community Mango architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community Mango",
+    "name": "Ansible-Community-Mark-Mango"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-Pool.svg",
+    "tags": [
+      "ansible",
+      "vcs-ci"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community Pool architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community Pool",
+    "name": "Ansible-Community-Mark-Pool"
+  },
+  {
+    "path": "icons/ansible/Ansible-Community-Mark-WhiteOutline.svg",
+    "tags": [
+      "ansible",
+      "vcs-ci",
+      "white"
+    ],
+    "category": "ansible",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Ansible Community Whiteoutline (white) architecture icon (Ansible, VCS / CI).",
+    "fullname": "Ansible Community Whiteoutline (white)",
+    "name": "Ansible-Community-Mark-WhiteOutline"
+  },
+  {
+    "path": "icons/bitbucket/Bitbucket-blue-logomark-only.svg",
+    "tags": [
+      "bitbucket",
+      "vcs-ci"
+    ],
+    "category": "bitbucket",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Bitbucket Blue architecture icon (Bitbucket, VCS / CI).",
+    "fullname": "Bitbucket Blue",
+    "name": "Bitbucket-blue-logomark-only"
+  },
+  {
+    "path": "icons/circleci/Circleci-icon-logo.svg",
+    "tags": [
+      "circleci",
+      "vcs-ci"
+    ],
+    "category": "circleci",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "CircleCI architecture icon (CircleCI, VCS / CI).",
+    "fullname": "CircleCI",
+    "name": "Circleci-icon-logo"
+  },
+  {
+    "path": "icons/git/git-icon.svg",
+    "tags": [
+      "git",
+      "vcs-ci"
+    ],
+    "category": "git",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Git architecture icon (Git, VCS / CI).",
+    "fullname": "Git",
+    "name": "git-icon"
+  },
+  {
+    "path": "icons/github/mark-github-24.svg",
+    "tags": [
+      "github",
+      "vcs-ci"
+    ],
+    "category": "github",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "GitHub Github 24 architecture icon (GitHub, VCS / CI).",
+    "fullname": "GitHub Github 24",
+    "name": "mark-github-24"
+  },
+  {
+    "path": "icons/github/Octicons-mark-github.svg",
+    "tags": [
+      "github",
+      "vcs-ci"
+    ],
+    "category": "github",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "GitHub Oct S Github architecture icon (GitHub, VCS / CI).",
+    "fullname": "GitHub Oct S Github",
+    "name": "Octicons-mark-github"
+  },
+  {
+    "path": "icons/gitlab/gitlab-logo-square.svg",
+    "tags": [
+      "gitlab",
+      "vcs-ci"
+    ],
+    "category": "gitlab",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "GitLab Square architecture icon (GitLab, VCS / CI).",
+    "fullname": "GitLab Square",
+    "name": "gitlab-logo-square"
+  },
+  {
+    "path": "icons/jenkins/jenkins.svg",
+    "tags": [
+      "jenkins",
+      "vcs-ci"
+    ],
+    "category": "jenkins",
+    "family": "vcs-ci",
+    "color": "#334155",
+    "description": "Jenkins architecture icon (Jenkins, VCS / CI).",
+    "fullname": "Jenkins",
+    "name": "jenkins"
+  },
+  {
+    "path": "icons/libvirt/logo-square.svg",
+    "tags": [
+      "libvirt",
+      "virt"
+    ],
+    "category": "libvirt",
+    "family": "virt",
+    "color": "#334155",
+    "description": "libvirt architecture icon (libvirt, Virtualization).",
+    "fullname": "libvirt",
+    "name": "logo-square"
+  },
+  {
+    "path": "icons/lxd/containers.svg",
+    "tags": [
+      "lxd",
+      "virt"
+    ],
+    "category": "lxd",
+    "family": "virt",
+    "color": "#334155",
+    "description": "LXD architecture icon (LXD, Virtualization).",
+    "fullname": "LXD",
+    "name": "containers"
+  }
+]

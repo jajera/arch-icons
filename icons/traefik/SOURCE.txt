@@ -1,0 +1,3 @@
+Traefik Labs Brand Guidelines 2020 describe a standalone icon.
+Icon extracted as first path from official TraefikProxy-vertical-logo-color.svg
+(from github.com/traefik/traefik docs/assets).

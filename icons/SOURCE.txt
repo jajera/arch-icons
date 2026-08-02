@@ -1,0 +1,18 @@
+Multi-vendor architecture icon marks (official / brand-kit sources).
+CNCF project icons and Kubernetes architecture icons live in cncf-icons.
+
+Families:
+  hashicorp/         @hashicorp/mktg-logos logomarks
+  linux-containers/  Docker brand marks; Podman icons
+  vcs-ci/            Git, GitHub, GitLab, Bitbucket, Jenkins, Ansible, CircleCI
+  data/              PostgreSQL, MySQL, MongoDB, Redis, Kafka, ClickHouse, RabbitMQ
+  observability/     Datadog Icon SVG, Grafana icon, Sentry logo
+  networking/        Kong logomark, NGINX hexagon, Traefik icon
+  os/                Debian, Fedora, Rocky, Ubuntu, Tux
+  security/          Keycloak icons, Snyk dog
+  iac/               Pulumi mark
+  virt/              libvirt logo-square; linuxcontainers.org mark (LXD folder)
+  dev-platforms/     Sonar vortex icon, JFrog logo mark
+
+Excluded here: wide wordmarks (Cloudflare glyph, Neo4j, OpenSearch).
+See per-product SOURCE.txt where present.
