@@ -1,0 +1,2 @@
+JFrog logo SVG via speedmedia CDN (media.jfrog.com):
+- jfrog-logo-2022.svg (near-square mark)

@@ -1,0 +1,3 @@
+SonarSource brand assets from sonarsource.com CDN (Kontent):
+- sonar-vortex-icon.svg (icon mark)
+- Sonar.svg (wordmark; kept for reference)

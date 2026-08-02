@@ -1,0 +1,2 @@
+NGINX hexagon mark from Wikimedia Commons (File:Nginx logo hexagon.svg).
+Official nginx.org only publishes wide wordmarks as SVG; no public icon pack found.
