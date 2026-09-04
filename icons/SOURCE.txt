@@ -8,11 +8,12 @@ Families:
   data/              PostgreSQL, MySQL, MongoDB, Redis, Kafka, ClickHouse, RabbitMQ
   observability/     Datadog Icon SVG, Grafana icon, Sentry logo
   networking/        Kong logomark, NGINX hexagon, Traefik icon
-  os/                Debian, Fedora, Rocky, Ubuntu, Tux
+  os/                Debian, Fedora, Rocky, AlmaLinux, Ubuntu, Tux
   security/          Keycloak icons, Snyk dog
   iac/               Pulumi mark
   virt/              libvirt logo-square; linuxcontainers.org mark (LXD folder)
-  dev-platforms/     Sonar vortex icon, JFrog logo mark
+  dev-platforms/     Sonar, JFrog, Pulp, Artifactory, Sonatype, npm, PyPI, Rust
+  linux-containers/  Docker, Podman, Helm, Quay
 
 Excluded here: wide wordmarks (Cloudflare glyph, Neo4j, OpenSearch).
 See per-product SOURCE.txt where present.

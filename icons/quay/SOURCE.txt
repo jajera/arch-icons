@@ -1,0 +1,3 @@
+Red Hat Quay marks from quay/quay:
+- quay-icon-color.svg (Technology_icon-Red_Hat-Quay-Standard-RGB.svg)
+  https://github.com/quay/quay

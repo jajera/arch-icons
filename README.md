@@ -21,7 +21,7 @@ Companion libraries:
 
 ## Statistics
 
-- **72** SVG icon marks across HashiCorp, containers, VCS/CI, data, OS, and more
+- **86** SVG icon marks across HashiCorp, containers, VCS/CI, data, OS, and more
 - Organized by product under `icons/<product>/`
 
 ## Usage

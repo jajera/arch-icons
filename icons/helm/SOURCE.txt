@@ -1,0 +1,6 @@
+Helm project artwork from cncf/artwork (icon layout):
+- helm-icon-color.svg
+- helm-icon-black.svg
+- helm-icon-white.svg
+  https://github.com/cncf/artwork/tree/master/projects/helm
+Note: also available in jajera/cncf-icons; kept here for arch-icons completeness.

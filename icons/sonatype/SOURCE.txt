@@ -1,0 +1,4 @@
+Sonatype press / website assets:
+- sonatype-icon-color.svg (favicon-2025.svg from sonatype.com press kit page)
+  https://www.sonatype.com/company/press-kit
+Note: Nexus Repository product SVGs were not publicly downloadable.

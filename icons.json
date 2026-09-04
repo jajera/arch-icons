@@ -91,6 +91,20 @@
     "name": "redis-logo"
   },
   {
+    "path": "icons/artifactory/artifactory-icon-color.svg",
+    "tags": [
+      "artifactory",
+      "color",
+      "dev-platforms"
+    ],
+    "category": "artifactory",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "Artifactory (color) architecture icon (Artifactory, Dev Platforms).",
+    "fullname": "Artifactory (color)",
+    "name": "artifactory-icon-color"
+  },
+  {
     "path": "icons/jfrog/jfrog-logo-2022.svg",
     "tags": [
       "dev-platforms",
@@ -104,6 +118,76 @@
     "name": "jfrog-logo-2022"
   },
   {
+    "path": "icons/npm/npm-icon-color.svg",
+    "tags": [
+      "color",
+      "dev-platforms",
+      "npm"
+    ],
+    "category": "npm",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "npm (color) architecture icon (npm, Dev Platforms).",
+    "fullname": "npm (color)",
+    "name": "npm-icon-color"
+  },
+  {
+    "path": "icons/pulp/pulp-icon-color.svg",
+    "tags": [
+      "color",
+      "dev-platforms",
+      "pulp"
+    ],
+    "category": "pulp",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "Pulp (color) architecture icon (Pulp, Dev Platforms).",
+    "fullname": "Pulp (color)",
+    "name": "pulp-icon-color"
+  },
+  {
+    "path": "icons/pypi/pypi-icon-color.svg",
+    "tags": [
+      "color",
+      "dev-platforms",
+      "pypi"
+    ],
+    "category": "pypi",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "PyPI (color) architecture icon (PyPI, Dev Platforms).",
+    "fullname": "PyPI (color)",
+    "name": "pypi-icon-color"
+  },
+  {
+    "path": "icons/pypi/pypi-icon-white.svg",
+    "tags": [
+      "dev-platforms",
+      "pypi",
+      "white"
+    ],
+    "category": "pypi",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "PyPI (white) architecture icon (PyPI, Dev Platforms).",
+    "fullname": "PyPI (white)",
+    "name": "pypi-icon-white"
+  },
+  {
+    "path": "icons/rust/rust-icon-black.svg",
+    "tags": [
+      "black",
+      "dev-platforms",
+      "rust"
+    ],
+    "category": "rust",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "Rust (black) architecture icon (Rust, Dev Platforms).",
+    "fullname": "Rust (black)",
+    "name": "rust-icon-black"
+  },
+  {
     "path": "icons/sonarqube/sonar-vortex-icon.svg",
     "tags": [
       "dev-platforms",
@@ -115,6 +199,20 @@
     "description": "SonarQube architecture icon (SonarQube, Dev Platforms).",
     "fullname": "SonarQube",
     "name": "sonar-vortex-icon"
+  },
+  {
+    "path": "icons/sonatype/sonatype-icon-color.svg",
+    "tags": [
+      "color",
+      "dev-platforms",
+      "sonatype"
+    ],
+    "category": "sonatype",
+    "family": "dev-platforms",
+    "color": "#334155",
+    "description": "Sonatype (color) architecture icon (Sonatype, Dev Platforms).",
+    "fullname": "Sonatype (color)",
+    "name": "sonatype-icon-color"
   },
   {
     "path": "icons/boundary/boundary-logomark-black.svg",
@@ -463,6 +561,48 @@
     "name": "docker-mark-ocean-blue"
   },
   {
+    "path": "icons/helm/helm-icon-black.svg",
+    "tags": [
+      "black",
+      "helm",
+      "linux-containers"
+    ],
+    "category": "helm",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Helm (black) architecture icon (Helm, Containers).",
+    "fullname": "Helm (black)",
+    "name": "helm-icon-black"
+  },
+  {
+    "path": "icons/helm/helm-icon-color.svg",
+    "tags": [
+      "color",
+      "helm",
+      "linux-containers"
+    ],
+    "category": "helm",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Helm (color) architecture icon (Helm, Containers).",
+    "fullname": "Helm (color)",
+    "name": "helm-icon-color"
+  },
+  {
+    "path": "icons/helm/helm-icon-white.svg",
+    "tags": [
+      "helm",
+      "linux-containers",
+      "white"
+    ],
+    "category": "helm",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Helm (white) architecture icon (Helm, Containers).",
+    "fullname": "Helm (white)",
+    "name": "helm-icon-white"
+  },
+  {
     "path": "icons/podman/podman-icon-black.svg",
     "tags": [
       "black",
@@ -503,6 +643,20 @@
     "description": "Podman (white) architecture icon (Podman, Containers).",
     "fullname": "Podman (white)",
     "name": "podman-icon-white"
+  },
+  {
+    "path": "icons/quay/quay-icon-color.svg",
+    "tags": [
+      "color",
+      "linux-containers",
+      "quay"
+    ],
+    "category": "quay",
+    "family": "linux-containers",
+    "color": "#334155",
+    "description": "Quay (color) architecture icon (Quay, Containers).",
+    "fullname": "Quay (color)",
+    "name": "quay-icon-color"
   },
   {
     "path": "icons/kong/Kong-Logomark-transparent.svg",
@@ -609,6 +763,46 @@
     "description": "Sentry architecture icon (Sentry, Observability).",
     "fullname": "Sentry",
     "name": "logo-sentry"
+  },
+  {
+    "path": "icons/almalinux/almalinux-icon-black.svg",
+    "tags": [
+      "almalinux",
+      "black",
+      "os"
+    ],
+    "category": "almalinux",
+    "family": "os",
+    "color": "#334155",
+    "description": "AlmaLinux (black) architecture icon (AlmaLinux, Operating Systems).",
+    "fullname": "AlmaLinux (black)",
+    "name": "almalinux-icon-black"
+  },
+  {
+    "path": "icons/almalinux/almalinux-icon-circle.svg",
+    "tags": [
+      "almalinux",
+      "os"
+    ],
+    "category": "almalinux",
+    "family": "os",
+    "color": "#334155",
+    "description": "AlmaLinux Circle architecture icon (AlmaLinux, Operating Systems).",
+    "fullname": "AlmaLinux Circle",
+    "name": "almalinux-icon-circle"
+  },
+  {
+    "path": "icons/almalinux/almalinux-icon-gray.svg",
+    "tags": [
+      "almalinux",
+      "os"
+    ],
+    "category": "almalinux",
+    "family": "os",
+    "color": "#334155",
+    "description": "AlmaLinux Gray architecture icon (AlmaLinux, Operating Systems).",
+    "fullname": "AlmaLinux Gray",
+    "name": "almalinux-icon-gray"
   },
   {
     "path": "icons/debian/openlogo-nd.svg",

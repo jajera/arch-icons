@@ -1,0 +1,4 @@
+Pulp Project brand assets (CC BY-SA 4.0):
+- pulp-icon-color.svg from pulp/pulp-docs pulpproject.org/assets/pulp_logo_icon.svg
+  https://github.com/pulp/pulp-docs
+  https://pulpproject.org/help/more/brand-guide/

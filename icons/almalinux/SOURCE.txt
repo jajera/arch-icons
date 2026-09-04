@@ -1,0 +1,6 @@
+AlmaLinux OS Foundation branding (static/branding on AlmaLinux/almalinux.org):
+- almalinux-icon-circle.svg (AlmaLinux Icon Circle.svg)
+- almalinux-icon-black.svg (icon-bw.svg)
+- almalinux-icon-gray.svg (icon-gray.svg)
+  https://almalinux.org/branding/
+  https://github.com/AlmaLinux/almalinux.org
