@@ -1,0 +1,3 @@
+JFrog Artifactory product mark via JFrog media CDN (speedmedia2.jfrog.com):
+- artifactory-icon-color.svg (Logo-Artifactory.svg)
+  https://jfrog.com/brand-guidelines/

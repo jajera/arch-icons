@@ -1,0 +1,3 @@
+Rust logo from rust-lang.org static images:
+- rust-icon-black.svg (rust-logo-blk.svg)
+  https://www.rust-lang.org/policies/media-guide

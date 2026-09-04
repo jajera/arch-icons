@@ -1,0 +1,4 @@
+PyPI / Warehouse site images (pypi/warehouse):
+- pypi-icon-color.svg (blue-cube.svg)
+- pypi-icon-white.svg (white-cube.svg)
+  https://github.com/pypi/warehouse
