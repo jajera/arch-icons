@@ -1,0 +1,7 @@
+ESPHome logomark from OpenHomeFoundation/brand-assets (commit 163c942):
+- esphome-logomark-color.svg (ESPH-logomark-color.svg)
+- esphome-logomark-white.svg (ESPH-logomark-monochrome-on-dark.svg)
+- esphome-logomark-black.svg (ESPH-logomark-monochrome-on-light.svg)
+  https://github.com/OpenHomeFoundation/brand-assets/tree/main/esphome/logo/screen/logomark
+Terms: trademark of the Open Home Foundation. Not available for commercial use without written permission (partner@openhomefoundation.org). See https://brands.openhomefoundation.io
+Wide lockups are not included.

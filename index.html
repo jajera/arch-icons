@@ -112,12 +112,14 @@
             "datadog": "Datadog",
             "debian": "Debian",
             "docker": "Docker",
+            "esphome": "ESPHome",
             "fedora": "Fedora",
             "git": "Git",
             "github": "GitHub",
             "gitlab": "GitLab",
             "grafana": "Grafana",
             "hashicorp": "HashiCorp",
+            "home-assistant": "Home Assistant",
             "jenkins": "Jenkins",
             "jfrog": "JFrog",
             "kafka": "Kafka",
@@ -126,10 +128,13 @@
             "libvirt": "libvirt",
             "linux": "Linux",
             "lxd": "LXD",
+            "mqtt": "MQTT",
+            "music-assistant": "Music Assistant",
             "mongodb": "MongoDB",
             "mysql": "MySQL",
             "nginx": "NGINX",
             "nomad": "Nomad",
+            "open-home-foundation": "Open Home Foundation",
             "packer": "Packer",
             "podman": "Podman",
             "postgresql": "PostgreSQL",
@@ -146,11 +151,13 @@
             "vault": "Vault",
             "data": "Data",
             "dev-platforms": "Dev Platforms",
+            "home-automation": "Home Automation",
             "iac": "IaC",
             "linux-containers": "Containers",
             "networking": "Networking",
             "observability": "Observability",
             "os": "Operating Systems",
+            "protocols": "Protocols",
             "security": "Security",
             "vcs-ci": "VCS / CI",
             "virt": "Virtualization",
@@ -418,6 +425,9 @@
                 const safeName = escapeHtml(displayName);
                 const safeDescription = escapeHtml(description);
                 const safePath = escapeHtml(icon.path);
+                const termsHtml = icon.terms
+                    ? `<div class="tooltip-terms">${escapeHtml(icon.terms)}</div>`
+                    : "";
                 const safeCategory = escapeHtml(categoryLabel);
                 const isWhite = (icon.tags || []).includes("white")
                     || /(?:^|[-_])white(?:\.svg)?$/i.test(icon.name || icon.path || "");
@@ -455,6 +465,7 @@
             <div class="tooltip-title">${safeName}</div>
             <div class="tooltip-category">${safeCategory}</div>
             <div class="tooltip-description">${safeDescription}</div>
+            ${termsHtml}
           </div>
           <div class="card-content">
             <div class="name">${safeName}</div>

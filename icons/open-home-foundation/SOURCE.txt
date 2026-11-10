@@ -1,0 +1,7 @@
+Open Home Foundation logomark from OpenHomeFoundation/brand-assets (commit 163c942):
+- open-home-foundation-logomark-color.svg (OHF-logomark-color-on-light.svg)
+- open-home-foundation-logomark-white.svg (OHF-logomark-monochrome-on-dark.svg)
+- open-home-foundation-logomark-black.svg (OHF-logomark-monochrome-on-light.svg)
+  https://github.com/OpenHomeFoundation/brand-assets/tree/main/open-home-foundation/logo/screen/logomark
+Terms: trademark of the Open Home Foundation. Not available for commercial use without written permission (partner@openhomefoundation.org). See https://brands.openhomefoundation.io
+Not included: OHF-logomark-color-on-dark.svg (its light bar is hard to see on the light tile) and the wide lockups.

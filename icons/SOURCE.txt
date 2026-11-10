@@ -13,6 +13,8 @@ Families:
   iac/               Pulumi mark
   virt/              libvirt logo-square; linuxcontainers.org mark (LXD folder)
   dev-platforms/     Sonar, JFrog, Pulp, Artifactory, Sonatype, npm, PyPI, Rust
+  home-automation/   Home Assistant, ESPHome, Music Assistant, Open Home Foundation (OpenHomeFoundation/brand-assets)
+  protocols/         MQTT (mqtt/mqttorg-graphics)
   linux-containers/  Docker, Podman, Helm, Quay
 
 Excluded here: wide wordmarks (Cloudflare glyph, Neo4j, OpenSearch).
