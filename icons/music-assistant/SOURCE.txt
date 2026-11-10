@@ -1,0 +1,7 @@
+Music Assistant logomark from OpenHomeFoundation/brand-assets (commit 163c942):
+- music-assistant-logomark-color.svg (MA-logomark-color.svg)
+- music-assistant-logomark-white.svg (MA-logomark-monochrome-on-dark.svg)
+- music-assistant-logomark-black.svg (MA-logomark-monochrome-on-light.svg)
+  https://github.com/OpenHomeFoundation/brand-assets/tree/main/music-assistant/logo/screen/logomark
+Terms: trademark of the Open Home Foundation. Not available for commercial use without written permission (partner@openhomefoundation.org). See https://brands.openhomefoundation.io
+Wide lockups are not included.

@@ -1,0 +1,5 @@
+MQTT icon from mqtt/mqttorg-graphics (commit a8eafc3):
+- mqtt-icon-color.svg (svg/mqtt-icon-solid.svg)
+  https://github.com/mqtt/mqttorg-graphics/tree/master/svg
+Terms: free to use to indicate use or support of the MQTT protocol. Do not use it to suggest endorsement from the MQTT community or any standards body.
+The transparent icon and wide logos are not included.

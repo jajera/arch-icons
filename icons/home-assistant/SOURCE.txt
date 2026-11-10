@@ -1,0 +1,7 @@
+Home Assistant logomark from OpenHomeFoundation/brand-assets (commit 163c942):
+- home-assistant-logomark-color.svg (HA-logomark-color.svg)
+- home-assistant-logomark-white.svg (HA-logomark-monochrome-on-dark.svg)
+- home-assistant-logomark-black.svg (HA-logomark-monochrome-on-light.svg)
+  https://github.com/OpenHomeFoundation/brand-assets/tree/main/home-assistant/logo/screen/logomark
+Terms: trademark of the Open Home Foundation. Not available for commercial use without written permission (partner@openhomefoundation.org). See https://brands.openhomefoundation.io
+Wide lockups are not included.

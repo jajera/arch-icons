@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ICONS_DIR = ROOT / "icons"
 OUTPUT = ROOT / "icons.json"
 FAMILIES_FILE = Path(__file__).resolve().parent / "product_families.json"
+TERMS_FILE = Path(__file__).resolve().parent / "product_terms.json"
 
 ACCENT = "#334155"
 
@@ -19,11 +20,13 @@ FAMILY_NAMES = {
     "data": "Data",
     "dev-platforms": "Dev Platforms",
     "hashicorp": "HashiCorp",
+    "home-automation": "Home Automation",
     "iac": "IaC",
     "linux-containers": "Containers",
     "networking": "Networking",
     "observability": "Observability",
     "os": "Operating Systems",
+    "protocols": "Protocols",
     "security": "Security",
     "vcs-ci": "VCS / CI",
     "virt": "Virtualization",
@@ -41,6 +44,7 @@ PRODUCT_NAMES = {
     "datadog": "Datadog",
     "debian": "Debian",
     "docker": "Docker",
+    "esphome": "ESPHome",
     "fedora": "Fedora",
     "git": "Git",
     "github": "GitHub",
@@ -48,6 +52,7 @@ PRODUCT_NAMES = {
     "grafana": "Grafana",
     "hashicorp": "HashiCorp",
     "helm": "Helm",
+    "home-assistant": "Home Assistant",
     "jenkins": "Jenkins",
     "jfrog": "JFrog",
     "kafka": "Kafka",
@@ -57,10 +62,13 @@ PRODUCT_NAMES = {
     "linux": "Linux",
     "lxd": "LXD",
     "mongodb": "MongoDB",
+    "mqtt": "MQTT",
+    "music-assistant": "Music Assistant",
     "mysql": "MySQL",
     "nginx": "NGINX",
     "nomad": "Nomad",
     "npm": "npm",
+    "open-home-foundation": "Open Home Foundation",
     "packer": "Packer",
     "podman": "Podman",
     "postgresql": "PostgreSQL",
@@ -105,6 +113,12 @@ def humanize(slug: str) -> str:
 def load_families() -> dict[str, str]:
     if FAMILIES_FILE.exists():
         return json.loads(FAMILIES_FILE.read_text(encoding="utf-8"))
+    return {}
+
+
+def load_terms() -> dict[str, str]:
+    if TERMS_FILE.exists():
+        return json.loads(TERMS_FILE.read_text(encoding="utf-8"))
     return {}
 
 
@@ -199,6 +213,7 @@ def tags_for(family: str, product: str, slug: str) -> list[str]:
 
 def build_entries() -> list[dict[str, object]]:
     families = load_families()
+    terms = load_terms()
     entries: list[dict[str, object]] = []
     for svg_path in sorted(ICONS_DIR.glob("*/*.svg")):
         relative = svg_path.relative_to(ROOT)
@@ -208,18 +223,19 @@ def build_entries() -> list[dict[str, object]]:
         family_label = FAMILY_NAMES.get(family, humanize(family))
         product_label = PRODUCT_NAMES.get(product, humanize(product))
         fullname = display_name(product, slug)
-        entries.append(
-            {
-                "path": relative.as_posix(),
-                "tags": tags_for(family, product, slug),
-                "category": product,
-                "family": family,
-                "color": ACCENT,
-                "description": f"{fullname} architecture icon ({product_label}, {family_label}).",
-                "fullname": fullname,
-                "name": slug,
-            }
-        )
+        entry: dict[str, object] = {
+            "path": relative.as_posix(),
+            "tags": tags_for(family, product, slug),
+            "category": product,
+            "family": family,
+            "color": ACCENT,
+            "description": f"{fullname} architecture icon ({product_label}, {family_label}).",
+            "fullname": fullname,
+            "name": slug,
+        }
+        if product in terms:
+            entry["terms"] = terms[product]
+        entries.append(entry)
 
     entries.sort(
         key=lambda icon: (

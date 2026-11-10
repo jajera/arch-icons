@@ -21,7 +21,7 @@ Companion libraries:
 
 ## Statistics
 
-- **86** SVG icon marks across HashiCorp, containers, VCS/CI, data, OS, and more
+- **99** SVG icon marks across HashiCorp, containers, VCS/CI, data, OS, home automation, and more
 - Organized by product under `icons/<product>/`
 
 ## Usage
@@ -38,7 +38,7 @@ Open <http://localhost:8000>.
 icons/
   <product>/     Official / brand-kit SVG marks
 icons.json       Searchable metadata for the web app
-scripts/         Metadata generation tooling
+scripts/         Metadata generation tooling (families, product terms)
 ```
 
 Regenerate metadata after adding icons:
@@ -51,7 +51,9 @@ python3 scripts/generate_icons_json.py
 
 Icons come from official brand kits and project artwork. See `icons/SOURCE.txt`
 and per-product `SOURCE.txt` files where present. Marks are trademarks of their
-respective owners and are not relicensed under MIT.
+respective owners and are not relicensed under MIT. Icons with usage limits, such
+as the Open Home Foundation marks, carry a `terms` note in `icons.json` that the
+site shows in the card tooltip.
 
 ## License
 

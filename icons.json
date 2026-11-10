@@ -493,6 +493,186 @@
     "name": "vault-logomark-white"
   },
   {
+    "path": "icons/esphome/esphome-logomark-black.svg",
+    "tags": [
+      "black",
+      "esphome",
+      "home-automation"
+    ],
+    "category": "esphome",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "ESPHome (black) architecture icon (ESPHome, Home Automation).",
+    "fullname": "ESPHome (black)",
+    "name": "esphome-logomark-black",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/esphome/esphome-logomark-color.svg",
+    "tags": [
+      "color",
+      "esphome",
+      "home-automation"
+    ],
+    "category": "esphome",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "ESPHome (color) architecture icon (ESPHome, Home Automation).",
+    "fullname": "ESPHome (color)",
+    "name": "esphome-logomark-color",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/esphome/esphome-logomark-white.svg",
+    "tags": [
+      "esphome",
+      "home-automation",
+      "white"
+    ],
+    "category": "esphome",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "ESPHome (white) architecture icon (ESPHome, Home Automation).",
+    "fullname": "ESPHome (white)",
+    "name": "esphome-logomark-white",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/home-assistant/home-assistant-logomark-black.svg",
+    "tags": [
+      "black",
+      "home-assistant",
+      "home-automation"
+    ],
+    "category": "home-assistant",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Home Assistant (black) architecture icon (Home Assistant, Home Automation).",
+    "fullname": "Home Assistant (black)",
+    "name": "home-assistant-logomark-black",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/home-assistant/home-assistant-logomark-color.svg",
+    "tags": [
+      "color",
+      "home-assistant",
+      "home-automation"
+    ],
+    "category": "home-assistant",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Home Assistant (color) architecture icon (Home Assistant, Home Automation).",
+    "fullname": "Home Assistant (color)",
+    "name": "home-assistant-logomark-color",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/home-assistant/home-assistant-logomark-white.svg",
+    "tags": [
+      "home-assistant",
+      "home-automation",
+      "white"
+    ],
+    "category": "home-assistant",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Home Assistant (white) architecture icon (Home Assistant, Home Automation).",
+    "fullname": "Home Assistant (white)",
+    "name": "home-assistant-logomark-white",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/music-assistant/music-assistant-logomark-black.svg",
+    "tags": [
+      "black",
+      "home-automation",
+      "music-assistant"
+    ],
+    "category": "music-assistant",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Music Assistant (black) architecture icon (Music Assistant, Home Automation).",
+    "fullname": "Music Assistant (black)",
+    "name": "music-assistant-logomark-black",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/music-assistant/music-assistant-logomark-color.svg",
+    "tags": [
+      "color",
+      "home-automation",
+      "music-assistant"
+    ],
+    "category": "music-assistant",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Music Assistant (color) architecture icon (Music Assistant, Home Automation).",
+    "fullname": "Music Assistant (color)",
+    "name": "music-assistant-logomark-color",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/music-assistant/music-assistant-logomark-white.svg",
+    "tags": [
+      "home-automation",
+      "music-assistant",
+      "white"
+    ],
+    "category": "music-assistant",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Music Assistant (white) architecture icon (Music Assistant, Home Automation).",
+    "fullname": "Music Assistant (white)",
+    "name": "music-assistant-logomark-white",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/open-home-foundation/open-home-foundation-logomark-black.svg",
+    "tags": [
+      "black",
+      "home-automation",
+      "open-home-foundation"
+    ],
+    "category": "open-home-foundation",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Open Home Foundation (black) architecture icon (Open Home Foundation, Home Automation).",
+    "fullname": "Open Home Foundation (black)",
+    "name": "open-home-foundation-logomark-black",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/open-home-foundation/open-home-foundation-logomark-color.svg",
+    "tags": [
+      "color",
+      "home-automation",
+      "open-home-foundation"
+    ],
+    "category": "open-home-foundation",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Open Home Foundation (color) architecture icon (Open Home Foundation, Home Automation).",
+    "fullname": "Open Home Foundation (color)",
+    "name": "open-home-foundation-logomark-color",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
+    "path": "icons/open-home-foundation/open-home-foundation-logomark-white.svg",
+    "tags": [
+      "home-automation",
+      "open-home-foundation",
+      "white"
+    ],
+    "category": "open-home-foundation",
+    "family": "home-automation",
+    "color": "#334155",
+    "description": "Open Home Foundation (white) architecture icon (Open Home Foundation, Home Automation).",
+    "fullname": "Open Home Foundation (white)",
+    "name": "open-home-foundation-logomark-white",
+    "terms": "Trademark of the Open Home Foundation. Not available for commercial use without written permission."
+  },
+  {
     "path": "icons/pulumi/pulumi_mark_on_light.svg",
     "tags": [
       "iac",
@@ -896,6 +1076,21 @@
     "description": "Ubuntu Ubuntu architecture icon (Ubuntu, Operating Systems).",
     "fullname": "Ubuntu Ubuntu",
     "name": "Logo-ubuntu_cof-orange-hex"
+  },
+  {
+    "path": "icons/mqtt/mqtt-icon-color.svg",
+    "tags": [
+      "color",
+      "mqtt",
+      "protocols"
+    ],
+    "category": "mqtt",
+    "family": "protocols",
+    "color": "#334155",
+    "description": "MQTT (color) architecture icon (MQTT, Protocols).",
+    "fullname": "MQTT (color)",
+    "name": "mqtt-icon-color",
+    "terms": "Free to indicate use or support of MQTT. Do not use it to suggest endorsement from the MQTT community or a standards body."
   },
   {
     "path": "icons/keycloak/keycloak-icon-black.svg",
